@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f901669a-f9f1-4df8-b346-4bcf8f7436b0")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 107.95 33.02)
+		(size 45.72 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "07202bc7-8104-4fa9-8027-d5022abaa047")
+		(property "Sheetname" "connectors"
+			(at 107.95 32.3084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 107.95 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Basic_Mux"
+				(path "/f901669a-f9f1-4df8-b346-4bcf8f7436b0"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 33.02)
+		(size 45.72 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "36a21c0b-659f-4c78-a839-c525231aed04")
+		(property "Sheetname" "LTC_controller"
+			(at 41.91 32.3084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LTC_controller.kicad_sch"
+			(at 41.91 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Basic_Mux"
+				(path "/f901669a-f9f1-4df8-b346-4bcf8f7436b0"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 33.02)
+		(size 44.45 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "38842fcc-4d37-44a9-853e-1347ffdc5802")
+		(property "Sheetname" "Mounting_holes"
+			(at 172.72 32.3084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mounting_holes.kicad_sch"
+			(at 172.72 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Basic_Mux"
+				(path "/f901669a-f9f1-4df8-b346-4bcf8f7436b0"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
